@@ -1,0 +1,80 @@
+* {
+    text-align: center;
+    list-style-type: none;
+}
+
+a{
+    color: lightsteelblue;
+    float: left;
+    border: 1px solid #e1e1e1;
+    padding: 10px;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: whitesmoke;
+    padding:10px;
+}
+
+#Menu_Bar {
+    display: flex;
+    background-color:white;
+    justify-content:center;
+    font-style: italic;
+    font-size: smaller;
+}
+
+
+    
+
+#about_me {
+    font-style: italic;
+    color:rgb(68,68,68);
+}
+
+#list {
+    margin: 50px;
+}
+
+#jp {
+    color: rgb(177, 36, 36);
+}
+
+#ice {
+    color:rgb(57, 57, 221);
+}
+
+#forest {
+    color:rgb(15, 109, 15);
+}
+
+#soil {
+    color:rgb(105, 87, 87);
+}
+
+footer {
+    background-color:whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ .mail {
+     font-weight: lighter;
+     color:rgb(68, 68, 68);
+ }
+
+ .insta {
+    
+     font-weight: lighter;
+     color:rgb(68, 68, 68);
+ }
+
+ 
+ .maillist {
+    margin-left: -2.5pc;
+    
+ }
+ 

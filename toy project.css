@@ -1,0 +1,83 @@
+* {
+    text-align: center;
+    list-style-type: none;
+}
+
+
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: whitesmoke;
+    padding:10px;
+
+}
+
+header h1 {
+    font-style: italic;
+    color:rgb(68,68,68);
+    
+}
+
+#Menu_Bar {
+    display: flex;
+    background-color:white;
+    justify-content:center;
+    font-style: italic;
+    font-size: smaller;
+}
+
+
+a{
+    color:lightsteelblue;
+    float: left;
+    border: 1px solid #e1e1e1;
+    padding: 10px;
+    
+
+}
+
+
+.Under_Menu_Child {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    margin: 50px;
+    height: 200px;
+}
+
+.Under_Menu_Child h4 {
+    color:steelblue;
+    font-style: italic;
+    margin-bottom: 55px;
+    
+}
+
+footer {
+    background-color:whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ .mail {
+     font-weight: lighter;
+     color:rgb(68, 68, 68);
+ }
+
+ .insta {
+    
+     font-weight: lighter;
+     color:rgb(68, 68, 68);
+ }
+
+ 
+ .maillist {
+    margin-left: -2.5pc;
+    
+ }
+
+
+ 
+    

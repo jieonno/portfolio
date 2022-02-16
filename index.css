@@ -1,0 +1,126 @@
+* {
+    text-align: center;
+    list-style-type: none;
+}
+
+a {
+    color:steelblue;
+    font-style: italic;
+    font-weight: lighter;
+  }
+
+  body {
+      margin: 0px;
+  }
+  
+ 
+
+header {
+    background-color:whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+ header h1 {
+     color:rgb(68, 68, 68);
+ }
+
+ header h3 {
+     color:silver;
+ }
+
+ #section1 {
+     padding-bottom: 65px;
+ }
+
+ #section1 h3 {
+     margin:50px
+ }
+
+ /* -----------포트폴리오 메뉴바----------- */
+
+ .portfolio_menu{
+     padding-bottom:60px;
+ }
+
+ .portfolio_menu ul {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+  }
+  
+  .portfolio_menu li {
+    width: 100%;
+    height: 200px;
+    margin-right: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #c7c5c5;
+  }
+  
+  .portfolio_menu li:hover {
+    cursor: pointer;
+    transform: scale(1.01);
+  }
+  
+  .portfolio_menu li:last-child {
+    margin-right: 0px;
+  }
+  
+  .portfolio_menu li h4 {
+    font-size: 15px;
+    margin-top: 30px;;
+    margin-bottom: 50px;
+  }
+  
+  .portfolio_menu li p {
+    font-size: 14px;
+    color: #3b3b3b;
+  }
+
+/* --------------------------------------/ */
+
+
+#lastname {
+    color: rgb(68, 68, 68);
+}
+
+.div1 {
+    padding-top: 70px;
+    padding-bottom: 80px;
+
+}
+
+.div1 h2 {
+    font-style: italic;
+    margin-bottom: 60px;
+}
+
+
+ 
+footer {
+    background-color:whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ .mail {
+     font-weight: lighter;
+     color:rgb(68, 68, 68);
+ }
+
+ .insta {
+    
+     font-weight: lighter;
+     color:rgb(68, 68, 68);
+ }
+
+ 
+ .maillist {
+    margin-left: -2.5pc;
+    
+ }
+ 
